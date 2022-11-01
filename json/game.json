@@ -27,7 +27,7 @@
             "iron_int" : "DefaultInterstitial",
             "iron_rewarded" : "DefaultRewardedVideo",
 
-            "ad_image" : "https://media4.giphy.com/media/eKm5JtHIVvAm1uinbD/giphy.gif",
+            "ad_image" : "https://i.giphy.com/media/eKm5JtHIVvAm1uinbD/giphy.webp",
             "ad_link" : "https://www.kimp.io/gif-marketing/",
 
             "ad_score_amount" : 1,
