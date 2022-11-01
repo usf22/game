@@ -3,7 +3,7 @@
         {
             "activate_ads" : "false",
             
-            "network" : "iron",
+            "network" : "admob",
 
             "one_signal" : "000000000",
             
@@ -27,7 +27,7 @@
             "iron_int" : "DefaultInterstitial",
             "iron_rewarded" : "DefaultRewardedVideo",
 
-            "ad_image" : "https://i.giphy.com/media/eKm5JtHIVvAm1uinbD/giphy.webp",
+            "ad_image" : "https://i.pinimg.com/originals/06/9d/61/069d617dca720be2d65014963515d28e.gif",
             "ad_link" : "https://www.kimp.io/gif-marketing/",
 
             "ad_score_amount" : 1,
