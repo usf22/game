@@ -1,7 +1,7 @@
 {
     "ads" : [
         {
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             
             "network" : "admob",
 
@@ -38,7 +38,7 @@
             "orientation": "landscape",
             "game_link": "https://html5.gamedistribution.com/7a175af95dad43fb94a64005cde61d77/",
 
-            "update_app_activate": "true",
+            "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
     ],
