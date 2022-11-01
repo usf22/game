@@ -3,7 +3,7 @@
         {
             "activate_ads" : "false",
             
-            "network" : "admob",
+            "network" : "iron",
 
             "one_signal" : "000000000",
             
