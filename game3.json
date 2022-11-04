@@ -5,7 +5,7 @@
             "activate_ads" : "true",
             "activate_ads_game" : "true",
             
-            "network" : "iron",
+            "network" : "admob",
 
             "one_signal" : "000000000",
             
