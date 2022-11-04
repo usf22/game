@@ -3,9 +3,9 @@
         {
             "demo" : "false",
             "activate_ads" : "true",
-            "activate_ads_game" : "false",
+            "activate_ads_game" : "true",
             
-            "network" : "is",
+            "network" : "admob",
 
             "one_signal" : "000000000",
             
