@@ -3,7 +3,7 @@
         {
             "activate_ads" : "true",
             
-            "network" : "fan",
+            "network" : "admob",
 
             "one_signal" : "000000000",
             
