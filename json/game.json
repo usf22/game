@@ -1,7 +1,7 @@
 {
     "ads" : [
         {
-            "demo" : "false",
+            "demo" : "true",
             "activate_ads" : "false",
             "activate_ads_game" : "false",
             
