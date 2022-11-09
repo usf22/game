@@ -37,7 +37,7 @@
             "ad_int_interval" : 5,
             "score_rating_reward" : 5,
 
-            "orientation": "landscape",
+            "orientation": "portrait",
             "game_link": "https://html5.gamedistribution.com/31ec80ae46264274810943c293440b9b/",
 
             "update_app_activate": "false",
