@@ -5,7 +5,7 @@
             "activate_ads" : "true",
             "activate_ads_game" : "true",
             
-            "network" : "is",
+            "network" : "admob",
 
             "one_signal" : "000000000",
             
@@ -37,8 +37,8 @@
             "ad_int_interval" : 5,
             "score_rating_reward" : 5,
 
-            "orientation": "landscape",
-            "game_link": "https://html5.gamedistribution.com/eb8346d4739e40eda6e4196dfc9166b7/",
+            "orientation": "portrait",
+            "game_link": "https://html5.gamedistribution.com/7f111bf679f7430db38c36d17d151d7d/",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
