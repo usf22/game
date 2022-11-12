@@ -2,8 +2,8 @@
     "ads" : [
         {
             "demo" : "true",
-            "activate_ads" : "true",
-            "activate_ads_game" : "true",
+            "activate_ads" : "false",
+            "activate_ads_game" : "false",
             
             "network" : "yandex",
 
