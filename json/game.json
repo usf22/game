@@ -2,8 +2,8 @@
     "ads" : [
         {
             "demo" : "false",
-            "activate_ads" : "false",
-            "activate_ads_game" : "false",
+            "activate_ads" : "true",
+            "activate_ads_game" : "true",
             
             "network" : "fan",
 
