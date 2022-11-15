@@ -1,10 +1,10 @@
 {
     "ads" : [
         {
-            "demo" : "true",
-            "activate_ads" : "false",
-            "activate_inter" : "off",
-            "activate_banner" : "off",
+            "demo" : "false",
+            "activate_ads" : "true",
+            "activate_inter" : "on",
+            "activate_banner" : "on",
             
             "network" : "admob",
 
