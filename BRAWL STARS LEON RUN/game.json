@@ -3,8 +3,8 @@
         {
             "demo" : "false",
             "activate_ads" : "true",
-            "activate_ads_game" : "true",
-            "activate_banner" : "off",
+            "activate_ads_game" : "false",
+            "activate_banner" : "on",
             
             "network" : "admob",
 
