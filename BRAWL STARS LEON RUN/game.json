@@ -4,7 +4,7 @@
             "demo" : "false",
             "activate_ads" : "true",
             "activate_ads_game" : "true",
-            "activate_banner" : "on",
+            "activate_banner" : "off",
             
             "network" : "admob",
 
