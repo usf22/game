@@ -1,9 +1,10 @@
 {
     "ads" : [
         {
-            "demo" : "true",
-            "activate_ads" : "false",
-            "activate_ads_game" : "false",
+            "demo" : "false",
+            "activate_ads" : "true",
+            "activate_inter" : "on",
+            "activate_banner" : "on",
             
             "network" : "admob",
 
@@ -33,7 +34,7 @@
             "ad_link" : "https://www.kimp.io/gif-marketing/",
 
             "ad_score_amount" : 1,
-            "ad_game_minutes" : 1,
+            "ad_game_minutes" : 100,
             "ad_int_interval" : 5,
             "score_rating_reward" : 5,
 
