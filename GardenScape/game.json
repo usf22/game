@@ -6,7 +6,7 @@
             "activate_inter" : "off",
             "activate_banner" : "off",
             
-            "network" : "admob",
+            "network" : "is",
 
             "one_signal" : "000000000",
             
