@@ -1,7 +1,7 @@
 {
     "ads" : [
         {
-            "demo" : "true",
+            "demo" : "false",
             "activate_ads" : "false",
             "activate_inter" : "off",
             "activate_banner" : "off",
