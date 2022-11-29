@@ -6,7 +6,7 @@
             "activate_inter" : "off",
             "activate_banner" : "off",
             
-            "network" : "admob",
+            "network" : "is",
 
             "one_signal" : "000000000",
             
@@ -39,7 +39,7 @@
             "score_rating_reward" : 5,
 
             "orientation": "landscape",
-            "game_link": "https://html5.gamedistribution.com/69183799e25245129b72c08dbe07ea5e/",
+            "game_link": "https://games.cdn.famobi.com/html5games/s/stair-race-3d/v030/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=5b50bf65-b7c1-4f18-b149-d4e3bb0e78d3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=663&original_ref=https%3A%2F%2Fhtml5games.com%2F",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
