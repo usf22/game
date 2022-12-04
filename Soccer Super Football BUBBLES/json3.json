@@ -1,7 +1,7 @@
 {
     "ads" : [
         {
-            "demo" : "true",
+            "demo" : "false",
             "activate_ads" : "true",
             "activate_inter" : "off",
             "activate_banner" : "off",
@@ -39,7 +39,7 @@
             "score_rating_reward" : 5,
 
             "orientation": "portrait",
-            "game_link": "https://html5.gamedistribution.com/7f111bf679f7430db38c36d17d151d7d/",
+            "game_link": "https://games.cdn.famobi.com/html5games/s/soccer-bubbles/v060/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=6e9e317b-46f0-4518-98c1-f6acd22fca30&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=813&original_ref=https%3A%2F%2Fhtml5games.com%2F",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
