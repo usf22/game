@@ -1,19 +1,19 @@
 {
     "ads" : [
         {
-            "demo" : "true",
-            "activate_ads" : "false",
+            "demo" : "false",
+            "activate_ads" : "true",
             "activate_inter" : "off",
             "activate_banner" : "off",
             
-            "network" : "is",
+            "network" : "admob",
 
             "one_signal" : "000000000",
             
-            "admob_ban": "ca-app-pub-5507746280102363/3427741630",
-            "admob_native" : "ca-app-pub-5507746280102363/9621614893",
-            "admob_int": "ca-app-pub-5507746280102363/2853026566",
-            "admob_rewarded": "ca-app-pub-5507746280102363/3591393162",
+            "admob_ban": "ca-app-pub-5507746280102363/3069106805",
+            "admob_native" : "ca-app-pub-5507746280102363/4017843501",
+            "admob_int": "ca-app-pub-5507746280102363/5330925174",
+            "admob_rewarded": "ca-app-pub-5507746280102363/3826271812",
 
             "yandex_ban" : "R-M-DEMO-320x50",
             "yandex_native" : "R-M-DEMO-native-i",
